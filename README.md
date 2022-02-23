@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Viktor from Bulgaria and I do Front End Web Development. I'm currently a student in New Bulgarian University. I really enjoy learning new technologies.</h3>
+<h3 align="center">Hi 👋, I'm Viktor from Bulgaria and I do Front End Web Development. I'm currently an IT student in New Bulgarian University. I really enjoy learning new technologies.</h3>
 
 - 👨‍💻 All of my projects are available at [https://viktoryordanov.netlify.app](https://viktoryordanov.netlify.app)
 
